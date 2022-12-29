@@ -7,9 +7,13 @@ const SocketServer = require('./socketServer');
 const app = express();
 
 app.use(express.json())  
-app.options("*",cors());
+app.use(cors());
 app.use(cookieParser())
 
+app.use((req,res,next)=>{
+  res.header('Access-Control-Allow-Origin', "*");
+  next();
+})
 
 //#region // !Socket
 const http = require('http').createServer(app);
