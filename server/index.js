@@ -4,17 +4,10 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
 const SocketServer = require('./socketServer');
-const corsOptions = {
-  Credential: 'true',
-  
-};
-
-
 const app = express();
 
 app.use(express.json())  
-app.options("*" , cors(corsOptions));
-app.use(cors(corsOptions));
+app.use(cors());
 app.use(cookieParser())
 
 
