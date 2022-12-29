@@ -7,7 +7,7 @@ const SocketServer = require('./socketServer');
 const app = express();
 
 app.use(express.json())  
-app.use(cors({origin:"*",credentials:true}));
+app.options("*",cors());
 app.use(cookieParser())
 
 
