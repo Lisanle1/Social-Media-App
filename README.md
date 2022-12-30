@@ -34,7 +34,7 @@ A Full Stack Application of our Social Media App with a real-time chatting platf
 
 Social Media Apps like instagram, facebook , snapchat are best in the industry and moving forward with that making our social media app with covers almost all features which bring out real-time experience to the users.
 
-# Features Inculded:-
+# Features Included:-
 <details>
 
 <summary>User features </summary>
