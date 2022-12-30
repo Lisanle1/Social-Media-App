@@ -86,7 +86,7 @@ Social Media Apps like instagram, facebook , snapchat are best in the industry a
 
 <hr>
 
-# Easy Installation:-
+## Easy Installation:-
 
 - vscode: git clone https://github.com/Lisanle1/Social-Media-App.git
 
