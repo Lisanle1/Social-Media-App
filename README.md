@@ -1,5 +1,7 @@
 # Social Media App 
 
+A Full Stack Application of our Social Media App with a real-time chatting platform with make you to connect with everyone and everywhere with one click. We can experience this application in mobile, Web and Ios platforms, completely responsive design using Material UI. 
+
 ## Login / Signup Pages;-
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/105549298/210062669-7bfed690-ee23-4f36-83ef-44930a42fee6.png)
@@ -28,3 +30,7 @@
 
 ## Admin Dashboard:-
 ![Screenshot (138)](https://user-images.githubusercontent.com/105549298/210062662-facc23db-5cc5-4655-b54f-c077274e9eb5.png)
+
+Social Media Apps like instagram, facebook , snapchat are best in the industry and moving forward with that making our social media app with covers almost all features which bring out real-time experience to the users.
+
+
